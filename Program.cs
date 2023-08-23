@@ -11,8 +11,8 @@ namespace Textgame
         private static Item leatherboots;
         private static List<Item> items;
 
-        private static int equipatk;
-        private static int equipdef;
+        private static int equipatk; // 착용한 장비의 총 공격력
+        private static int equipdef; // 착용한 장비의 총 방어력
 
         static void Main(string[] args)
         {
