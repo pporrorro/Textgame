@@ -1,0 +1,14 @@
+C:\TeamSparta\Textgame\Textgame\bin\Debug\net7.0\Textgame.exe
+C:\TeamSparta\Textgame\Textgame\bin\Debug\net7.0\Textgame.deps.json
+C:\TeamSparta\Textgame\Textgame\bin\Debug\net7.0\Textgame.runtimeconfig.json
+C:\TeamSparta\Textgame\Textgame\bin\Debug\net7.0\Textgame.dll
+C:\TeamSparta\Textgame\Textgame\bin\Debug\net7.0\Textgame.pdb
+C:\TeamSparta\Textgame\Textgame\obj\Debug\net7.0\Textgame.GeneratedMSBuildEditorConfig.editorconfig
+C:\TeamSparta\Textgame\Textgame\obj\Debug\net7.0\Textgame.AssemblyInfoInputs.cache
+C:\TeamSparta\Textgame\Textgame\obj\Debug\net7.0\Textgame.AssemblyInfo.cs
+C:\TeamSparta\Textgame\Textgame\obj\Debug\net7.0\Textgame.csproj.CoreCompileInputs.cache
+C:\TeamSparta\Textgame\Textgame\obj\Debug\net7.0\Textgame.dll
+C:\TeamSparta\Textgame\Textgame\obj\Debug\net7.0\refint\Textgame.dll
+C:\TeamSparta\Textgame\Textgame\obj\Debug\net7.0\Textgame.pdb
+C:\TeamSparta\Textgame\Textgame\obj\Debug\net7.0\Textgame.genruntimeconfig.cache
+C:\TeamSparta\Textgame\Textgame\obj\Debug\net7.0\ref\Textgame.dll
