@@ -7,7 +7,10 @@
 
 
 ##### 주소 : https://github.com/pporrorro/Textgame
-##### 개발 : 임현진 @pporrorro
+##### 개발 : 임현진 [@pporrorro]{https://github.com/pporrorro}
+
+
+---
 
 
 ## 프로젝트 소개
